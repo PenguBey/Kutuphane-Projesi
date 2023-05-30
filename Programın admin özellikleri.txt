@@ -1,0 +1,6 @@
+programý normal kullanýcý olarak giriþ yaparsanýz kitap alýp,iade edebilirsiniz.Kitaplarr baþkalarýndaysa o kitap "alýnamaz"olarak gözükür.kullanýcý bilgilerinizi deðiþtirebilir ve hesabýnýzý komple silebilirsiniz.
+
+"admin"olarak giriþ yaparsanýz kitap alamassýnýz ve kullanýcý bilgilerinizi deðiþtiremessiniz. Kitap ekleyip silebilir ve kitaplarýn hangi kullanýcýya ait olduðunu görebilirsiniz. Hepsi bu. admin þifresi"123"
+
+
+Ve filtrelerin hepsini istediðiniz þekilde kombin edebilirsiniz
